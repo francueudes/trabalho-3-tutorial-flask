@@ -1,0 +1,3 @@
+	Todos os arquivos estão enumerados de acordo com a ordem do tutorial, sendo que dois são imagens pois eram para serem feitos no "PythonAnywhere" e os dois últimos tutoriais são pastas.
+
+	Os arquivos .html estão na pasta "templates", sendo que a medida que ia avançando nos tutoriais eu sobreescrevia os arquivos, uma vez que determinados tutoriais era pedido para alterar o arquivo .html que um tutorial anterior havia utilizado.
